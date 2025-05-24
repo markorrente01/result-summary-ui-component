@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/sass-flexbox-ahe-621AHv)
+- Live Site URL: [result summary site](https://markorrente01.github.io/result-summary-ui-component/)
 
 ## My process
 
